@@ -1,5 +1,5 @@
 # codepulse-project
-Code Pulse is a code coverage tool that works on running programs in real time. It uses the [bytefrog](https://github.com/codedx/bytefrog) tracing framework to monitor your Java applications, and displays its findings on a web-based UI.
+Code Pulse is a real-time code coverage tool. It works by monitoring Java or .NET Framework applications while they run, keeps track of coverage data, and shows you what's being called and when. Code Pulse currently supports Java programs up to Java 9, and .NET Framework programs for CLR versions 2 & 4.
 
 Secure Decisions is extending development on the Code Pulse project. You may view or access the project on [GitHub](https://github.com/codedx/codepulse), or visit its [website](http://code-pulse.com/).
 
